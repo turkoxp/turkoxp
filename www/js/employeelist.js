@@ -1,4 +1,4 @@
-var serviceURL = "http://turconisrl.com/appempleados/services/;
+var serviceURL = "http://turconisrl.com/appempleados/services/";
 
 var employees;
 
